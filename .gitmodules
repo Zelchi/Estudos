@@ -1,0 +1,7 @@
+[submodule "testego"]
+	path = testego
+	url = https://github.com/Zelchi/testego
+
+[submodule "Pizzaria"]
+	path = Pizzaria
+	url = https://github.com/Zelchi/Pizzaria
